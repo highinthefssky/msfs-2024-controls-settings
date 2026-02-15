@@ -98,10 +98,26 @@
 		<Action ActionName="KEY_COCKPIT_MODE_HOLD" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_COCKPIT_MODE_OFF" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_COCKPIT_MODE_ON" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_COCKPIT_QUICKVIEW1" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_COCKPIT_QUICKVIEW2" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_COCKPIT_QUICKVIEW3" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_COCKPIT_QUICKVIEW4" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
+		<Action ActionName="KEY_COCKPIT_QUICKVIEW1" ValueEvent="0.000000" Delay="2.000000" Flag="2">
+			<Primary>
+				<KEY Information="Joystick Pov Up">256</KEY>
+			</Primary>
+		</Action>
+		<Action ActionName="KEY_COCKPIT_QUICKVIEW2" ValueEvent="0.000000" Delay="2.000000" Flag="2">
+			<Primary>
+				<KEY Information="Joystick Pov Down">258</KEY>
+			</Primary>
+		</Action>
+		<Action ActionName="KEY_COCKPIT_QUICKVIEW3" ValueEvent="0.000000" Delay="2.000000" Flag="2050">
+			<Primary>
+				<KEY Information="Joystick Pov Right">257</KEY>
+			</Primary>
+		</Action>
+		<Action ActionName="KEY_COCKPIT_QUICKVIEW4" ValueEvent="0.000000" Delay="2.000000" Flag="2050">
+			<Primary>
+				<KEY Information="JoystickPov Left">259</KEY>
+			</Primary>
+		</Action>
 		<Action ActionName="KEY_COCKPIT_QUICKVIEW5" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_COCKPIT_QUICKVIEW6" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_COCKPIT_QUICKVIEW7" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
@@ -1197,10 +1213,26 @@
 		<Action ActionName="KEY_CHASE_LOOK_UP" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_CHASE_LOOK_UPLEFT" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_CHASE_LOOK_UPRIGHT" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_CHASE_QUICKVIEW1" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_CHASE_QUICKVIEW2" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_CHASE_QUICKVIEW3" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
-		<Action ActionName="KEY_CHASE_QUICKVIEW4" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
+		<Action ActionName="KEY_CHASE_QUICKVIEW1" ValueEvent="0.000000" Delay="2.000000" Flag="2">
+			<Primary>
+				<KEY Information="JoystickPov Left">259</KEY>
+			</Primary>
+		</Action>
+		<Action ActionName="KEY_CHASE_QUICKVIEW2" ValueEvent="0.000000" Delay="2.000000" Flag="2">
+			<Primary>
+				<KEY Information="Joystick Pov Down">258</KEY>
+			</Primary>
+		</Action>
+		<Action ActionName="KEY_CHASE_QUICKVIEW3" ValueEvent="0.000000" Delay="2.000000" Flag="2">
+			<Primary>
+				<KEY Information="Joystick Pov Right">257</KEY>
+			</Primary>
+		</Action>
+		<Action ActionName="KEY_CHASE_QUICKVIEW4" ValueEvent="0.000000" Delay="2.000000" Flag="2">
+			<Primary>
+				<KEY Information="Joystick Pov Up">256</KEY>
+			</Primary>
+		</Action>
 		<Action ActionName="KEY_CHASE_QUICKVIEW5" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_CHASE_QUICKVIEW6" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
 		<Action ActionName="KEY_CHASE_QUICKVIEW7" ValueEvent="0.000000" Delay="0.000000" Flag="2"/>
