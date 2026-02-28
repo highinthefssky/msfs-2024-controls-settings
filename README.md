@@ -34,6 +34,8 @@ Each entry includes the filename (linked to the file), controller, settings type
 | [WinWingSim - Ursa Minor - GA - GC](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/WinWingSim%20-%20Ursa%20Minor%20-%20GA%20-%20GC.xml) | WinWingSim Ursa Minor | General controls | General control setup for GA aircraft for Ursa Minor |
 | [WinWingSim - Ursa Minor - Generic - Airplanes Controls - T16000M](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/WinWingSim%20-%20Ursa%20Minor%20-%20Generic%20-%20Airplanes%20Controls%20-%20T16000M.xml) | WinWingSim Ursa Minor | Airplanes controls | Generic aircraft bindings for Ursa Minor (T16000M replica) |
 | [WinWingSim - Ursa Minor - Generic - General Controls - T16000M](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/WinWingSim%20-%20Ursa%20Minor%20-%20Generic%20-%20General%20Controls%20-%20T16000M.xml) | WinWingSim Ursa Minor | General controls | Generic general controls setup for Ursa Minor (T16000M replica) |
+| [WinWingSim - UrsaMinor Throttle - Airliner - Airplanes controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/WinWingSim%20-%20UrsaMinor%20Throttle%20-%20Airliner%20-%20Airplanes%20controls.xml) | WinWingSim UrsaMinor Throttle | Airplanes controls | Airliner specific aircraft bindings for the Ursa Minor Throttle |
+| [WinWingSim - UrsaMinor Throttle - Airliner-Generic controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/WinWingSim%20-%20UrsaMinor%20Throttle%20-%20Airliner-Generic%20controls%20.xml) | WinWingSim UrsaMinor Throttle | General controls | Generic airliner controls setup for the Ursa Minor Throttle |
 
 
 
