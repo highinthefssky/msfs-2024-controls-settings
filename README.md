@@ -8,6 +8,8 @@ Each entry includes the filename (linked to the file), controller, settings type
 
 | Filename | Controller | Settings Type | Description |
 |----------|------------|----------------|-------------|
+| [Moza AB6 - NCAR - general controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/Moza%20AB6%20-%20NCAR%20-%20general%20controls.xml) | Moza AB6 | General controls | General MSFS controls profile for the NCAR configuration |
+| [Moza AB6 - P51 Mustang - airplanes controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/Moza%20AB6%20-%20P51%20Mustang%20-%20airplanes%20controls.xml) | Moza AB6 | Airplanes controls | P-51 Mustang aircraft profile for the Moza AB6 |
 | [Moza Flight - 6 ABS FFB - GA - airplanes controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/Moza%20Flight%20-%206%20ABS%20FFB%20-%20GA%20-%20airplanes%20controls.xml) | Moza Flight - 6 ABS FFB | Airplanes controls | General aviation aircraft profile for Moza FFB base |
 | [Moza Flight - 6 ABS FFB - GA - general controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/Moza%20Flight%20-%206%20ABS%20FFB%20-%20GA%20-%20general%20controls.xml) | Moza Flight - 6 ABS FFB | General controls | General MSFS controls profile for Moza FFB base |
 | [Moza Flight - MTQ Throttle Quadrant - Airliner - airplanes controls](https://github.com/highinthefssky/msfs-2024-controls-settings/blob/main/profiles/Moza%20Flight%20-%20MTQ%20Throttle%20Quadrant%20-%20Airliner%20-%20airplanes%20controls.xml) | Moza Flight - MTQ Throttle Quadrant | Airplanes controls | Airliner-specific aircraft profile for the MTQ throttle quadrant |
@@ -67,4 +69,3 @@ To learn how to import these configuration files into MSFS, check out this helpf
 ---
 
 Feel free to contribute or suggest new profiles!
-
